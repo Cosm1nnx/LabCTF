@@ -1,0 +1,1 @@
+Nevoie de tkinter pentru a rula interfata grafica!
