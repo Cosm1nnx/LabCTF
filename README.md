@@ -6,4 +6,6 @@
 -va trebui sa mai adaug pentru fiecare lab si un fisier txt pentru enunt si un buton pentru a afisa enuntul si exercitii pe viitor
 ----------------------
 -azi, am mai facut ca outputul din terminal sa vina la checker sa verifice
--si 3 laboratoare facute cu exercitii , mai am inca 3
+-si 3 laboratoare facute cu exercitii (2 de fiecare), mai am inca 3
+-----------------------------------
+-lab 4,5 facute mai trebuie maine 6
